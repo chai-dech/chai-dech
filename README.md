@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @chai-dech
-- 👀 I’m interested in Java, JavaScript
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Spring microservices
-- 💞️ I’m looking on building my own projects
 - 📫 How to reach me - chaidechks@gmail.com
